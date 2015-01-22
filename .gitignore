@@ -3,7 +3,6 @@
 # =========================
 bin/
 obj/
-readme.txt
 
 # Windows image file caches
 Thumbs.db
