@@ -8,6 +8,8 @@ GitHubWebApp/readme.txt
 # =========================
 bin/
 obj/
+packages/
+
 
 # Windows image file caches
 Thumbs.db
@@ -52,3 +54,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.suo
